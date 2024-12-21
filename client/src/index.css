@@ -1,0 +1,9 @@
+:root {
+  background-color: #202020;
+
+}
+
+body {
+  background: var(background-color);
+  color: #a9f2ff;
+}
